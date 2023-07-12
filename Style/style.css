@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.flower-sheikh{
+    display: flex;
+    gap:10px;
+    
+
+}
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+
+  ul.navbar li {
+    float: left;
+  }
+
+  ul.navbar li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  ul.navbar li a:hover {
+    background-color: #d07272;
+  }
+ .total-navbar{
+    display:flex;
+    justify-content: space-around;
+    background-color: gray;
+ }
+ .immage{
+    height: 70px;
+    background-repeat:no-repeat ;
+    margin-top: 0px;
+    width: 10px;
+ }
